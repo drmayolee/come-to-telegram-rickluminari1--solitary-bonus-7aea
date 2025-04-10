@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "solitary-bonus-7aea",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d34afff8-9da5-4de0-9f71-9a63f52bf7e1",
+      "database_name": "solitary-bonus-7aea-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
